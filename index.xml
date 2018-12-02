@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome</title>
+    <title>Home</title>
     <link>http://darshanpatel.in/</link>
-    <description>Recent content on Welcome</description>
+    <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Dec 2018 12:59:25 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 08 Aug 2018 12:59:25 +0530</lastBuildDate>
     
 	<atom:link href="http://darshanpatel.in/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My First Post</title>
-      <link>http://darshanpatel.in/posts/my-first-post/</link>
-      <pubDate>Sat, 01 Dec 2018 12:59:25 +0530</pubDate>
+      <title>Side Project</title>
+      <link>http://darshanpatel.in/posts/side-project/</link>
+      <pubDate>Wed, 08 Aug 2018 12:59:25 +0530</pubDate>
       
-      <guid>http://darshanpatel.in/posts/my-first-post/</guid>
-      <description></description>
+      <guid>http://darshanpatel.in/posts/side-project/</guid>
+      <description>Why i built my own Bookmarking app ( lynks.in  ) Its 2018 and bookmarking apps have been mainstream since at-least last 10 years. There are plenty of options available in the market already, so why exactly do we need yet another bookmarking app ?
+Let&amp;rsquo;s see  I have been a heavy bookmark user since last many years. Needless to say that i have tried variety of bookmarks app over the years yet i always felt that none of them provides all the functionalities that i always wanted.</description>
     </item>
     
     <item>
