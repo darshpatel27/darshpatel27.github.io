@@ -6,15 +6,27 @@
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Aug 2018 12:59:25 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 06 Dec 2018 16:23:57 +0530</lastBuildDate>
     
 	<atom:link href="http://darshanpatel.in/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Building static blog/website using Hugo</title>
+      <link>http://darshanpatel.in/posts/hugo/</link>
+      <pubDate>Thu, 06 Dec 2018 16:23:57 +0530</pubDate>
+      
+      <guid>http://darshanpatel.in/posts/hugo/</guid>
+      <description>Recently i have set-up this blog using Hugo. I was able to do it over a weekend. It was a fun &amp;amp; rewarding experience. If you are interested in setting up a static blog/website all you have to do is follow these 6 simple steps
+1) Select your theme
+ Hugo has a wide variety of themes to select from. Pick your favorite here
+ 2) Setting it up locally</description>
+    </item>
+    
+    <item>
       <title>Side Project (Bookmarking App)</title>
       <link>http://darshanpatel.in/posts/side-project/</link>
-      <pubDate>Wed, 08 Aug 2018 12:59:25 +0530</pubDate>
+      <pubDate>Sat, 01 Dec 2018 12:59:25 +0530</pubDate>
       
       <guid>http://darshanpatel.in/posts/side-project/</guid>
       <description>Why i built my own Bookmarking app ( lynks.in  ) Its 2018 and bookmarking apps have been mainstream since at-least last 10 years. There are plenty of options available in the market already, so why exactly do we need yet another bookmarking app ?
