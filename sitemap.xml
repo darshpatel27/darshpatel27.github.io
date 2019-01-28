@@ -18,6 +18,15 @@
   </url>
   
   <url>
+    <loc>http://darshanpatel.in/posts/docker/</loc>
+    <lastmod>2018-01-28T12:04:13+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://darshanpatel.in/posts/junk/</loc>
+  </url>
+  
+  <url>
     <loc>http://darshanpatel.in/categories/</loc>
     <priority>0</priority>
   </url>
